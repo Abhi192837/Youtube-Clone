@@ -1,27 +1,20 @@
 # Youtube Clone
 
-
 ## Introduction
 This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The goal of this project is to recreate the basic functionality and design of the popular video-sharing platform YouTube. This clone will allow users to view videos, search for videos, play videos, and interact with the user interface.
 
 ## Features
 - Browse and watch videos
-
 - Play videos in a video player
 - Display video information (title, description, uploader, views, likes, etc.)
 - Responsive design for various devices
 
 Website Link: https://github.com/Abhi192837/Youtube-Clone
 
-
-
 ## Technologies Used
 - HTML: For creating the structure of the web pages.
 - CSS: For styling the web pages and making them visually appealing.
 - JavaScript: For adding interactivity and functionality to the website.
-
-
-
 
 ## Usage
 1. Open the `index.html` file in your web browser.
@@ -38,4 +31,3 @@ You may need to obtain a YouTube Data API key to fetch real video data. Follow t
 
 ## Contributing
 Contributions to this project are welcome! If you find any bugs or want to add new features, please create a pull request. For major changes, please open an issue first to discuss the changes.
-
